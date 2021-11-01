@@ -1,9 +1,9 @@
 word = input("Give me a word in Eglish...")
-if (word == "cat"):
+if word == "cat":
   print("gato")
-elif (word == "dog"):
+elif word == "dog":
   print("perro")
-elif (word == "horse"):
+elif word == "horse":
   print("caballo")
 else:
   print("no entiendo")
